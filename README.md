@@ -2,13 +2,6 @@
 
 A simple weather application built with React.js and utilizing the OpenWeatherAPI to display weather information for a given city.
 
-## Demo
-
-Include a link to a live demo of your Weather App (e.g., Netlify, GitHub Pages).
-
-## Screenshots
-
-Include screenshots of your Weather App to give users a quick visual overview.
 
 ## Features
 
@@ -22,8 +15,6 @@ Include screenshots of your Weather App to give users a quick visual overview.
 - OpenWeatherAPI: Used to fetch weather data for the provided city.
 - HTML, CSS, JavaScript: The core web technologies used for building the app.
 - (Include other technologies if relevant, e.g., Axios for API calls)
-
-
 - Node.js and npm installed on your local machine.
 
 
